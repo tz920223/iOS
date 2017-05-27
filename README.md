@@ -8,3 +8,5 @@ Repository for Creative Coding iOS Course at Parsons.
 
 #### MyNotesTong
 ##### Notes taking application with different colors
+
+<img src="https://raw.githubusercontent.com/tz920223/iOS/master/MyNotesTong/image7.png" width="300"> <img src="https://raw.githubusercontent.com/tz920223/iOS/master/MyNotesTong/image8.png" width="300">
